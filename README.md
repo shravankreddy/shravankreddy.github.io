@@ -36,10 +36,10 @@ Data visualization presentation in support of an increase of the minimum wage to
 
 Case study explored Linear Regression with L1 and L2 regularization, and its impact on predicting the critical temperature of a superconductor. Lasso (L1) and Ridge (L2) are regularization techniques that combat overfitting in models. GridSearchCV was used to tune the hyper-parameters for these models.
 
-### 2Critical Temperature Linear Regression Model of Superconductor Materials
-[YouTube](https://youtu.be/PYTLKT4T6V8)
+### Predicting Hospital Readmittance with Logistic Regression
+[Case Study]()
 
-Case study explored Linear Regression with L1 and L2 regularization, and its impact on predicting the critical temperature of a superconductor. Lasso (L1) and Ridge (L2) are regularization techniques that combat overfitting in models. GridSearchCV was used to tune the hyper-parameters for these models.
+Hospital readmission occurs when a patient has been discharged from a hospital but has been admitted within a specific period.  To help promote efficiencies within Medicare, the 2010 Patient Protection and Affordable Care Act established the Hospital Readmissions Reduction Program (HRRP) as an addition to the 1965 Social Security Act.  This study used logistic regression to develop a model to help hospitals identify patients with higher risks of readmission in an effort to avoid denied reimbursements and penalties.
 
 ### 3Critical Temperature Linear Regression Model of Superconductor Materials
 [YouTube](https://youtu.be/PYTLKT4T6V8)
