@@ -26,7 +26,7 @@ Data visualization presentation in support of an increase of the minimum wage to
 Research focuses on cloud computing governance and audit issues introduced by the growing organizational preference of cloud first infrastructure.  The shift to a cloud first approach prioritizes cloud adoption has led to a rapid adoption of cloud services. Accelerated even more with adjustments to the pandemic, the cloud has not only reduced IT costs and increased flexibility and efficiency but also increased the required level of trust with cloud vendors
 
 ### Critical Temperature Linear Regression Model of Superconductor Materials
-[YouTube](https://youtu.be/PYTLKT4T6V8)
+[Cast Study](https://github.com/shravankreddy/shravankreddy.github.io/blob/main/Case%20Study%201.docx)
 
 Case study explored Linear Regression with L1 and L2 regularization, and its impact on predicting the critical temperature of a superconductor. Lasso (L1) and Ridge (L2) are regularization techniques that combat overfitting in models. GridSearchCV was used to tune the hyper-parameters for these models.
 
