@@ -60,7 +60,5 @@ The case requires the development of a model to predict the existence of a new p
 
 Given an anonymized set of data, this case study explores the development of a machine learning model that can predict the binary target variable ‘y’.  This scenario of needing to develop a predictive model using data with little to no background can come up frequently in data science.  Sources that include medical patient data or classified data would require development with very little information. The scenario also comes with a misclassification cost so the model needs to minimize those losses.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ## Publications
 1. Horn, Hayley; Laigaie, Eric; Lopez, Alexander; and Reddy, Shravan (2023) "Using Geographic Information to Explore Player-Specific Movement and its Effects on Play Success in the NFL," SMU Data Science Review: Vol. 7: No. 2, Article 3.
