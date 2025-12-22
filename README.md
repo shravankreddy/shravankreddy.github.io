@@ -1,4 +1,4 @@
-## Data Analyst | Business Intelligence | Data Analytics & AI Integration
+## Background & Portfolio
 
 #### Technical Skills: Python, SQL
 
