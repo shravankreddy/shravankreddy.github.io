@@ -17,7 +17,7 @@
 
 
 
-## Research
+## ---Research---
 ### Using Geographic Information to Explore Player-Specific Movement and its Effects on Play Success in the NFL
 [Publication](https://scholar.smu.edu/datasciencereview/vol7/iss2/3/)
 
@@ -29,7 +29,7 @@ This research focused on cloud computing governance and audit issues introduced 
 
 
 
-## Presentations
+## ---Presentations---
 ### Positive impacts of minimum wage increase to $15
 [YouTube](https://youtu.be/PYTLKT4T6V8)
 
@@ -37,7 +37,7 @@ This data visualization presentation supported an increase in the minimum wage t
 
 
 
-## Case Studies
+## ---Case Studies---
 ### [Critical Temperature Linear Regression Model of Superconductor Materials](https://github.com/shravankreddy/shravankreddy.github.io/blob/075ec271f2663676260ef0d6a6eb030ec7e2fdc1/Critical%20Temperature%20Linear%20Regression%20Model%20of%20Superconductor%20Materials.pdf)
 
 This case study explored Linear Regression with L1 and L2 regularization and their impact on predicting the critical temperature of superconductor materials. Lasso (L1) and Ridge (L2) regularization techniques were applied to combat overfitting. GridSearchCV was used to tune model hyperparameters.
@@ -66,5 +66,5 @@ This case required the development of a model to predict the existence of a new 
 
 Using an anonymized dataset, this case study explored the development of a machine learning model to predict a binary target variable, y. This scenario reflects real-world data science challenges where models must be built with limited contextual information, such as with medical or classified datasets. The case also incorporated misclassification costs, requiring the model to minimize potential losses.
 
-## Publications
+## ---Publications---
 1. Horn, Hayley; Laigaie, Eric; Lopez, Alexander; and Reddy, Shravan (2023) "Using Geographic Information to Explore Player-Specific Movement and its Effects on Play Success in the NFL," SMU Data Science Review: Vol. 7: No. 2, Article 3.
