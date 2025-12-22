@@ -38,6 +38,14 @@ This data visualization presentation supported an increase in the minimum wage t
 
 
 ## ---Case Studies---
+### [Ames Housing Data Analysis using SAS](https://github.com/shravankreddy/shravankreddy.github.io/blob/d4739f7e27af5ddd3a05c56b9892170287d6ee15/Ames%20Iowa%20House%20Price%20Model.pdf)
+
+In this project, we conducted two analyses using sample data from Ames, Iowa. In the first analysis, we developed a model to identify the factors that influence housing prices in Ames, Iowa. This analysis provides insight into which factors are most important for customers who are interested in buying a house in this area.
+
+In the second analysis, we focused on building the most predictive model and demonstrated the process of variable selection using several methods, such as LASSO and stepwise selection. We selected the top three models for comparison and reported the adjusted R-squared, AIC, ASE (test), and Kaggle score for each model.
+
+Finally, we selected two categorical variables and performed a two-way ANOVA to test both additive and nonadditive models.
+
 ### [Critical Temperature Linear Regression Model of Superconductor Materials](https://github.com/shravankreddy/shravankreddy.github.io/blob/075ec271f2663676260ef0d6a6eb030ec7e2fdc1/Critical%20Temperature%20Linear%20Regression%20Model%20of%20Superconductor%20Materials.pdf)
 
 This case study explored Linear Regression with L1 and L2 regularization and their impact on predicting the critical temperature of superconductor materials. Lasso (L1) and Ridge (L2) regularization techniques were applied to combat overfitting. GridSearchCV was used to tune model hyperparameters.
