@@ -15,6 +15,8 @@
 
 **Defined Benefit Analyst Roles @ Fidelity Investments (_October 2005 - April 2018_)**
 
+
+
 ## Research
 ### Using Geographic Information to Explore Player-Specific Movement and its Effects on Play Success in the NFL
 [Publication](https://scholar.smu.edu/datasciencereview/vol7/iss2/3/)
@@ -25,11 +27,15 @@ Master’s research project explored the use of in-game NFL player movement data
 
 This research focused on cloud computing governance and audit issues introduced by the growing organizational preference for cloud-first infrastructure. The shift to a cloud-first approach, which prioritizes cloud adoption, has led to the rapid expansion of cloud services. Accelerated further by organizational adjustments during the pandemic, cloud adoption has reduced IT costs and increased flexibility and efficiency, while also increasing the required level of trust placed in cloud vendors.
 
+
+
 ## Presentations
 ### Positive impacts of minimum wage increase to $15
 [YouTube](https://youtu.be/PYTLKT4T6V8)
 
 This data visualization presentation supported an increase in the minimum wage to $15. It utilized effective dashboard design principles emphasizing clear purpose, simplicity, and intentional design choices that make data easy to understand and compelling to act upon.
+
+
 
 ## Case Studies
 ### [Critical Temperature Linear Regression Model of Superconductor Materials](https://github.com/shravankreddy/shravankreddy.github.io/blob/075ec271f2663676260ef0d6a6eb030ec7e2fdc1/Critical%20Temperature%20Linear%20Regression%20Model%20of%20Superconductor%20Materials.pdf)
