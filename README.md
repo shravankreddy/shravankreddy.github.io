@@ -31,7 +31,7 @@ Research focuses on cloud computing governance and audit issues introduced by th
 Data visualization presentation in support of an increase of the minimum wage to $15.  Utilized effective dashboard design principles emphasizing clear purpose, simplicity, and design choices that make data easy to understand and compelling to act on.
 
 ## Case Studies
-### Critical Temperature Linear Regression Model of Superconductor Materials
+### [###Critical Temperature Linear Regression Model of Superconductor Materials](https://github.com/shravankreddy/shravankreddy.github.io/blob/075ec271f2663676260ef0d6a6eb030ec7e2fdc1/Critical%20Temperature%20Linear%20Regression%20Model%20of%20Superconductor%20Materials.pdf)
 [Case Study](https://github.com/shravankreddy/shravankreddy.github.io/blob/075ec271f2663676260ef0d6a6eb030ec7e2fdc1/Critical%20Temperature%20Linear%20Regression%20Model%20of%20Superconductor%20Materials.pdf)
 
 Case study explored Linear Regression with L1 and L2 regularization, and its impact on predicting the critical temperature of a superconductor. Lasso (L1) and Ridge (L2) are regularization techniques that combat overfitting in models. GridSearchCV was used to tune the hyper-parameters for these models.
